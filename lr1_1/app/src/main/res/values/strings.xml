@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Main Menu</string>
+    <string name="List_btn">List</string>
+    <string name="opt_btn">Options</string>
+</resources>
