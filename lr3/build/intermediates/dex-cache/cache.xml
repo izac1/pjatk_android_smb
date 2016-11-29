@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_04bd36b260e7d3f41f606469d8a548d7a4ce4d4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.20.0_808f17c76bc5e18b23e60a8366e0bb0df9f8d6cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.20.0_682a2afe96d0c0d99be207b22993cd1b507ea27e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.20.0_76a693fb40bdffcb05b0013db9adee7c5b951342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.20.0_273b34eef495ee48058ea41006a8a700b88f5577/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-13.0_8e4f6cc8b07bcf033cca50841f44cc2e9ced71f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3fab93fa808c587138699b5dfad213238dd80844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-endpoints-deps/1.9.34/62c8b7dff8fd6458ca722343757ab3057362ec39/appengine-endpoints-deps-1.9.34.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62c8b7dff8fd6458ca722343757ab3057362ec39">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/appengine-endpoints-deps-1.9.34_c4bf32cbfe583cd3da1572b1f73f9ac15f8699b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_260407c01646a205f5fc2ac4abb3c5433fad67d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_c12ea96f7ee52d59daa58d7907aeeea121ddc921/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_77dd2657e8351e78300a51394bff267370f11e6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_664d995897359ef24c4e2ec33fb7b904a907bbed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf7eeb2f0088f3f1ed23de6c297dd93893eec7c5">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9fc4c61b3f7297299382e25bf623b13ad255d7de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_251a6e26902a6412464ae084946919e2214deede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.20.0_c239847d14657ade48375be5ed656bc0dbac05f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_32d720c0add542f5b5d6fcd0b2084494537ad29c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_10190963c2464bb5b8f9f7415e8daa1e3e640a83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_078fb559712ad227b9bf7354ee4bc5eee0f1e3ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0fe9e477817e31d644723164e56316a14bb4a86b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_d87a433ce8838fa8c6cba01a955974865814ddad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_5dedcf7bca6c9838632640e267db1893946d6fd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_d25cd9dc506b0a671a1fcf34018062d8f2b7473c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a1c80924203c0e8749182d04e9db154995a3f194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_36fcffa7c5f9896c8ef46125bdec235f3c8b28cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.20.0_bced9daa59ad32aca67cdf4f4298d5196602b5cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3608ed49d0c2d51bee24376fcbb3bc39e62d9cc6">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2c43ac9fc3db522c3202294ec7ed1220e17d99af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/izac/AndroidStudioProjects/lr32/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_54b48643e743dac1aa54aa988bbc78f88ef0228b/classes.dex" />
+    </item>
+
+</items>
